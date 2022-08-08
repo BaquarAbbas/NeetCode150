@@ -20,7 +20,7 @@ I love to solve some popular coding questions in my free time and I am not exper
 
 *I started to code in python while solving coding  questions but later I found that C++ is much faster than python and has some good libraries like stl and containers.So,I just started learning c++ and it took me a while to digest the syntax of this language.*
 
-*Don't make the same mistake as I did earlier in my life.Stick with the programing language that you are good at but choose it wisely.*
+*Don't make the same mistake as I did earlier in my life.Stick with the programming language that you are good at but choose it wisely.*
 
 
 ## Some useful links
