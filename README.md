@@ -5,7 +5,8 @@ This is a repository that contains some of the famous leetcode problems based on
 
 
 
-![Logo](https://neetcode.io/assets/a-rocket-5-no-background.png)
+   ![Logo](https://neetcode.io/assets/a-rocket-5-no-background.png)
+   
 # A better way to prepare for coding interviews.
 
 # Hi, I'm Abbas! 👋
